@@ -2,7 +2,7 @@ class Jitterbreak < Formula
   desc "macOS awdl0 and llw0 manager"
   homepage "https://github.com/davidrlopez/jitterbreak"
   url "https://github.com/davidrlopez/jitterbreak/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "dd38a1c084e746cd22efec26d248ff7e3e5729f7771e2bb7a4d98c392d94458b"
   license "MIT"
 
 depends_on "go" => :build
