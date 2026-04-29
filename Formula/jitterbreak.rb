@@ -1,4 +1,4 @@
-class jitterbreak < Formula
+class Jitterbreak < Formula
   desc "macOS awdl0 and llw0 manager"
   homepage "https://github.com/davidrlopez/jitterbreak"
   url "https://github.com/davidrlopez/jitterbreak/archive/refs/tags/v1.0.0.tar.gz"
