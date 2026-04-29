@@ -1,4 +1,4 @@
-cask "Jitterbreak-app" do
+cask "jitterbreak-app" do
   version "1.1"
 
   sha256 "bfba5de97f3a21968133541dfd5b0cd49167ddeb6ef9bb54f7213379bbb5ad36"
