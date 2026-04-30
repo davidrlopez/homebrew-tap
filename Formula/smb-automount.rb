@@ -1,8 +1,8 @@
 class SmbAutomount < Formula
   desc "macOS SMB Auto-Mount (Tailscale/VPN Optimized)"
   homepage "https://github.com/davidrlopez/smb-automount"
-  url "https://github.com/davidrlopez/smb-automount/archive/refs/tags/latest"
-  sha256 "da3d286627a26926e6341191d3a3f1489667ad1332d49de8c39c0d6f7856ba1e"
+  url "https://github.com/davidrlopez/smb-automount/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license "Apache-2.0"
 
   def install
